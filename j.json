@@ -1,0 +1,7 @@
+{'ResponseMetadata': {'RequestId': 'C2C413400735646B', 'HostId': '1XIw8bgtqnJofztNOhvBOFiBp9KaSV6emr1qletLt9c7/bRgKkX/8/
+ghJ7JSt72FAJMM7Hnp5Lk=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': '1XIw8bgtqnJofztNOhvBOFiBp9KaSV6emr1qletLt
+9c7/bRgKkX/8/ghJ7JSt72FAJMM7Hnp5Lk=', 'x-amz-request-id': 'C2C413400735646B', 'date': 'Tue, 26 Jun 2018 07:06:46 GMT', '
+content-type': 'application/xml', 'transfer-encoding': 'chunked', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'Owner': {
+'DisplayName': 'mausam.awesome4', 'ID': '3dfa92efb570a408e12673385bd01bb88f6a8bb728c9306440e4f7566b6e8665'}, 'Grants': [
+{'Grantee': {'DisplayName': 'mausam.awesome4', 'ID': '3dfa92efb570a408e12673385bd01bb88f6a8bb728c9306440e4f7566b6e8665',
+ 'Type': 'CanonicalUser'}, 'Permission': 'FULL_CONTROL'}]}
